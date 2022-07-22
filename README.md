@@ -1,2 +1,2 @@
 # MIPS Single cycle processor
-Implementing a single cycle **MIPS** using verilog
+As part of computer architicture end of course project, using verilog:  a single cycle **MIPS** has been implemented.
